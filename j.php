@@ -2,9 +2,9 @@
 
 
 //API Details
-$username ="arpitrohela@gmail.com";
-$password ="password";
-$mob_number=$_POST['Mobile_no'];
+$username ="arpitrohela@gmail.com";//my smsc username
+$password ="password";//mu smsc password ,,,use your account details...mine is outdated and out of credit
+$mob_number=$_POST['Mobile_no'];//this comes from "index.html"
 // Sender ID
 //Add a comment to this line
 $approved_senderid="SMSIND";
